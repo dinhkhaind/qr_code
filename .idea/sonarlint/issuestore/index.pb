@@ -46,8 +46,6 @@ o
 ?example/android/app/src/main/res/drawable/launch_background.xml,1/b/1bb14a998e5f231f349219f963caa556062b7ffd
 q
 Aexample/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md,d/0/d08ab51b2ab8916d03c72e5559e6bf6a92e8576c
-r
-Bandroid/src/main/kotlin/com/example/qrcode/QRCaptureViewFactory.kt,f/d/fd0b9f8c1e33a4e9746a6de7d9589db09a43ef85
 s
 Cexample/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json,8/a/8a7608b6305e0c37a90fa590e20bd05f17ca6914
 s
@@ -56,10 +54,6 @@ t
 Dexample/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist,b/2/b26e4f3137b877f066fec0762b660d1cbea8d966
 j
 :example/android/.settings/org.eclipse.buildship.core.prefs,4/a/4ad7b84a850c962de5e9521f48022cbd50c7b4b0
-j
-:android/src/main/kotlin/com/example/qrcode/QrcodePlugin.kt,f/f/ff472830c2823aa8cffb40ce3e00511d6e7cdb70
-k
-;android/src/main/kotlin/com/example/qrcode/QRCaptureView.kt,b/9/b912caadf037dd5c43ae4ed8d20022cd0952a368
 a
 1example/ios/Flutter/flutter_export_environment.sh,7/1/71c78f677ed5c36ef72cd07b9d40e51d046329db
 a
@@ -88,14 +82,10 @@ Z
 ,example/ios/Runner.xcodeproj/project.pbxproj,a/e/ae9e8a4b8b9f145cb19db294e3966c8834b2aa37
 ]
 -example/ios/Runner/Base.lproj/Main.storyboard,1/b/1b843f53ef774a09664b977ff1357e0c1f32aee9
-`
-0example/android/app/src/main/AndroidManifest.xml,0/0/0020cbd7236d37a7913938cbb103aea0ecb5f55f
 I
 example/ios/Runner/main.m,1/6/16c01672e079ad3d047618c0869d2d1ed93ff5db
 L
 example/android/app/.project,e/d/ed68423ec3d0eab0e88b059bc731a569b07014e4
-L
-example/android/build.gradle,2/8/288c02ea61e179659ae25d8bba1c2043ac03577c
 M
 example/ios/Runner/Info.plist,e/2/e2dc4e679c0be3a65fc5cd78a18842267605151a
 M
@@ -105,11 +95,7 @@ O
 N
 example/android/app/.classpath,a/9/a9a111253c7fa9866747c209c7815cb1f2717833
 P
- example/android/app/build.gradle,7/1/713ad3fe69886a08d88c72af382500e328f35cfd
-P
  example/ios/Runner/AppDelegate.m,0/6/06b28d893ed3f89c37b0acc7800c86acdf667dee
-Q
-!example/android/gradle.properties,e/f/effc4a1f532c1cba8d1dd32e235ef452b14be28c
 P
  example/ios/Runner/AppDelegate.h,b/9/b98618f15983d94807e5f118e226299c726e147f
 S
@@ -132,3 +118,7 @@ J
 ios/Classes/QrcodePlugin.h,5/c/5cd6e626258a8435be73a0d01ee9d930d0128607
 H
 example/android/.project,a/e/aeb3d51cdd07f5c4417c6b2ebb38070c40acfaef
+U
+%example/.flutter-plugins-dependencies,8/8/8879ee22bd1231a1e72c15973a1d6b37723c1332
+T
+$android/src/main/AndroidManifest.xml,0/b/0b3b2877555a5f870242186e404e35c0deb3a18b
